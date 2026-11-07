@@ -1,0 +1,17 @@
+Scaler,Model,Recall,Precision,Accuracy,F1
+None (raw),LogisticRegression,0.9176,0.9579,0.9538,0.9367
+None (raw),SVM,0.8,0.9711,0.9165,0.8752
+None (raw),KNN,0.8824,0.939,0.9341,0.9092
+None (raw),RandomForest,0.9353,0.9638,0.9626,0.9489
+StandardScaler,LogisticRegression,0.9529,0.9771,0.9736,0.964
+StandardScaler,SVM,0.9471,0.9769,0.9714,0.961
+StandardScaler,KNN,0.9176,0.9875,0.9648,0.951
+StandardScaler,RandomForest,0.9353,0.9638,0.9626,0.9489
+MinMaxScaler,LogisticRegression,0.9176,0.9943,0.967,0.9534
+MinMaxScaler,SVM,0.9529,0.9828,0.9758,0.9671
+MinMaxScaler,KNN,0.9353,0.9875,0.9714,0.9604
+MinMaxScaler,RandomForest,0.9353,0.9638,0.9626,0.9489
+RobustScaler,LogisticRegression,0.9529,0.9827,0.9758,0.9671
+RobustScaler,SVM,0.9471,0.9769,0.9714,0.961
+RobustScaler,KNN,0.9294,0.9875,0.9692,0.9575
+RobustScaler,RandomForest,0.9353,0.9638,0.9626,0.9489

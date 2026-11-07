@@ -1,0 +1,4 @@
+Model,Threshold,Train OOF Recall,Train OOF Precision,Test Recall (default),Test Recall (tuned),Test Precision (tuned),Test F2 (tuned),Missed cancers (FN),False alarms (FP),Test ROC-AUC
+LogisticRegression,-0.3501,0.9824,0.8608,0.9762,1.0,0.8936,0.9767,0,5,0.9983
+SVM,0.0729,0.9824,0.7046,1.0,1.0,0.913,0.9813,0,4,0.9954
+RandomForest,0.2832,0.9824,0.8227,0.9762,1.0,0.8936,0.9767,0,5,0.9993

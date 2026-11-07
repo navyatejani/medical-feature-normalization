@@ -1,0 +1,6 @@
+<CodeBlock language="text" editable>
+venv/
+__pycache__/
+*.pyc
+.vscode/
+</CodeBlock>
